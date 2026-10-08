@@ -1,0 +1,32 @@
+export const projects = [
+  {
+    number: '01',
+    name: 'Cedar Courtyard House',
+    type: 'RESIDENTIAL · THESIS PROJECT',
+    year: '2026',
+    location: 'Pine Hollow, NY',
+    drawing: 'house',
+    studio: 'Mossline Atelier',
+    description: 'A quiet home set into a wooded slope. Two precise stone walls hold the ground while a cedar volume reaches toward the clearing.',
+  },
+  {
+    number: '02',
+    name: 'Common Ground Table',
+    type: 'CIVIC · STUDIO III',
+    year: '2025',
+    location: 'North Harbor, NY',
+    drawing: 'table',
+    studio: 'Mossline Atelier',
+    description: 'A neighborhood kitchen and workshop organized around one generous room, making everyday rituals visible from the street.',
+  },
+  {
+    number: '03',
+    name: 'Orchard Field Notes',
+    type: 'ADAPTIVE REUSE · STUDIO II',
+    year: '2024',
+    location: 'Applecross, NY',
+    drawing: 'orchard',
+    studio: 'Mossline Atelier',
+    description: 'A former packing shed becomes a seasonal archive for local growers, retaining its rough timber frame and giving it a new public life.',
+  },
+]

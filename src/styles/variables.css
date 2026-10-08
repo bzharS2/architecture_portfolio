@@ -1,0 +1,16 @@
+:root {
+  font-family: 'DM Sans', sans-serif;
+  color: #e8f0f1;
+  background: #071a2d;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --navy: #071a2d;
+  --navy-light: #0b2741;
+  --blue-line: rgba(143, 190, 207, .63);
+  --blue-faint: rgba(143, 190, 207, .23);
+  --paper: #eae8df;
+  --ink: #142a34;
+  --muted: #86959a;
+  --mono: 'DM Mono', monospace;
+  --display: 'Manrope', sans-serif;
+}

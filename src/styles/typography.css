@@ -1,0 +1,29 @@
+.eyebrow,
+.technical-labels,
+.home-footer,
+.header-location,
+.box-topline,
+.box-foot,
+.preview-index,
+.preview-scale,
+.section-header,
+.section-fact,
+.intro-side-note,
+.scene-caption,
+.drawing-stage,
+.drawing-instruction,
+.scene-details text,
+.project-number,
+.project-meta,
+.method-entry > span,
+.about-note > span,
+.about-note small,
+.contact-location,
+.section-footer,
+.blueprint-coordinate,
+.transition-blueprint > span {
+  font-family: var(--mono);
+  font-weight: 400;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
